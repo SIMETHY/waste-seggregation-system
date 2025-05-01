@@ -1,0 +1,1 @@
+# waste-seggregation-system
